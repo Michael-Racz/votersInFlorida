@@ -1,5 +1,5 @@
 # votersInFlorida
-Test program that reads an HTML file and outputs a sorted list of the count of voters in florida
+Test program that reads an HTML file and outputs a sorted list of the count of voters in florida. This Python program was compiled with python3.
 
 
 ## Description 
